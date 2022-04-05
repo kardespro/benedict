@@ -1,3 +1,10 @@
+
+Warning
+
+> # **This is Ubuntu Installer**
+
+
+
 > # **⚠️ Warning!**
 > 
 > Starting from 23/01/2022, We will be requiring users to have the following code in their `meta.ejs` file located at `src/views/parts/meta.ejs`. This code will come preinstalled on this vCodes Instance. This warning is only for users who already have it installed.
